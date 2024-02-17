@@ -1,7 +1,5 @@
 # 👋 Hello, I'm David Wagacira!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/david-wagacira-4a7942241)
-
 
 Welcome to my GitHub profile! I'm thrilled to have you here. 😄
 
@@ -27,7 +25,7 @@ I'm currently focusing on expanding my knowledge in programming languages like J
 
 ## 🤝 Let's Connect
 
-I'm always open to collaborating on exciting projects or discussing tech-related topics. Feel free to reach out to me via [LinkedIn](https://linkedin.com/in/david-wagacira-4a7942241).
+I'm always open to collaborating on exciting projects or discussing tech-related topics.
 
 ## 📈 GitHub Stats
 
