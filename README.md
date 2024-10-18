@@ -9,13 +9,16 @@ I'm a passionate computer scientist with a love for coding and problem-solving. 
 
 ## 💻 Tech Stack
 
-- **Languages**: Python, JavaScript, C , C++
-- **Tools**: Git, Docker
+- **Languages**: JavaScript
+- **Frameworks/Libraries**: React
+- **Tools**: Git
 - **Other**: HTML, CSS
+
 
 ## 🌱 Current Focus
 
-I'm currently focusing on expanding my knowledge in programming languages like Javascript and Python.
+I'm currently focusing on building responsive web applications using React, JavaScript, and EJS, while also working on backend development with PHP for projects. Additionally, I'm enhancing my skills in creating dynamic user experiences and integrating frontend with backend technologies.
+
 
 ## 🔍 What I'm Working On
 
