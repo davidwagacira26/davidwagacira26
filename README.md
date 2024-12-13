@@ -17,7 +17,7 @@ I'm a passionate computer scientist with a love for coding and problem-solving. 
 
 ## 🌱 Current Focus
 
-I'm currently focusing on building responsive web applications using React, JavaScript, and EJS, while also working on backend development with PHP for projects. Additionally, I'm enhancing my skills in creating dynamic user experiences and integrating frontend with backend technologies.
+I'm currently focusing on building responsive web applications using React, JavaScript, and EJS, while also working on backend development with NextJS for projects. Additionally, I'm enhancing my skills in creating dynamic user experiences and integrating frontend with backend technologies.
 
 
 ## 🔍 What I'm Working On
