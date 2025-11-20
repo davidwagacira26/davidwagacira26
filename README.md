@@ -9,10 +9,10 @@ I'm a passionate computer scientist with a love for coding and problem-solving. 
 
 ## 💻 Tech Stack
 
-- **Languages**: JavaScript
+- **Languages**: TypeScript
 - **Frameworks/Libraries**: Next.js
 - **Tools**: Git
-- **Other**: HTML5, CSS3
+- **Other**: HTML5, Tailwund CSS
 
 
 ## 🌱 Current Focus
