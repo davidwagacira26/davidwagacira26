@@ -12,7 +12,7 @@ I'm a passionate computer scientist with a love for coding and problem-solving. 
 - **Languages**: TypeScript
 - **Frameworks/Libraries**: Next.js
 - **Tools**: Git
-- **Other**: HTML5, Tailwund CSS
+- **Other**: HTML5, Tailwind CSS
 
 
 ## 🌱 Current Focus
